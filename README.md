@@ -1,3 +1,6 @@
+# This project is cloned from Brad Traversy MERN Stack course
+- Thanks to this awasome course
+
 # GoldCoast eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
